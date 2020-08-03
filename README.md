@@ -28,7 +28,6 @@
 ---
 
 <img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raghunathanp95&show_icons=true&hide_border=true" />
-<br />
 <img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathanp95&show_icons=true&hide_border=true" />
 
 [website]: https://raghunathanp95.github.io/index/
