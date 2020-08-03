@@ -24,11 +24,12 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 
 <img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raghunathanp95&show_icons=true&hide_border=true" />
+<br />
+<img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathanp95&show_icons=true&hide_border=true" />
 
 [website]: https://raghunathanp95.github.io/index/
 [twitter]: https://twitter.com/raghurobert007
