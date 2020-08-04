@@ -41,8 +41,6 @@
 <img align="left" alt="Skillshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skillshare.svg" />
 <img align="left" alt="Udemy" width="22px" src="https://scontent.fcok6-1.fna.fbcdn.net/v/t39.2365-6/73041963_531436731019825_6025486430753521664_n.jpg?_nc_cat=101&_nc_sid=ad8a9d&_nc_ohc=u2515T3fZuMAX8--m9M&_nc_ht=scontent.fcok6-1.fna&oh=092aee1a3c6c1166b83f7774c7abe26c&oe=5F4D1A39" />
 
-<br />
-
 ---
 
 <img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raghunathanp95&show_icons=true&hide_border=true" />
