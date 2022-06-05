@@ -53,5 +53,5 @@
 [website]: #
 [twitter]: https://twitter.com/raghurobert007
 [instagram]: https://www.instagram.com/starlord_rags/
-[linkedin]: [https://www.linkedin.com/in/raghunathanp/](https://www.linkedin.com/in/raghunathan-p/)
+[linkedin]: https://www.linkedin.com/in/raghunathanp/
 [facebook]: https://www.facebook.com/justbeinglegendaryawesome
