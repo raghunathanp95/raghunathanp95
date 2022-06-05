@@ -50,8 +50,8 @@
 
 <img align="left" alt="Raghunathan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathanp95&show_icons=true&hide_border=true" />
 
-[website]: https://raghunathanp95.github.io/index/
+[website]: #
 [twitter]: https://twitter.com/raghurobert007
 [instagram]: https://www.instagram.com/starlord_rags/
-[linkedin]: https://www.linkedin.com/in/raghunathan-p-8282a283/
+[linkedin]: [https://www.linkedin.com/in/raghunathanp/](https://www.linkedin.com/in/raghunathan-p/)
 [facebook]: https://www.facebook.com/justbeinglegendaryawesome
