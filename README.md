@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm Raghunathan P <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/raghurobert007?style=social)
-![GitHub followers](https://img.shields.io/github/followers/raghunathanp95?style=social)
-[<img  alt="" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" />][website]
+[<img  alt="" src="https://img.shields.io/twitter/follow/raghurobert007?style=social" />][twitter]
+[<img  alt="" src="https://img.shields.io/github/followers/raghunathanp95?style=social" />][website]
+[<img  alt="" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{raghunathanp95}1212%2Fhit-counter" />][website]
 
 <h2>About me</h2>
 
