@@ -9,6 +9,38 @@
 
 I have a keen interest in new technologies like data science, AI/ML and blockchain technologies. I'm a quick learner with strong programming skills. Handy in python, C#, and js
 
+## Experience
+<details>
+  <summary>Resume</summary>
+
+<img align="right" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
+<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+
+
+- 👨‍💻 **Software Engineer**\
+📆 2021 - moment\
+📍 **Continental AG** - Bangalore, India
+  
+<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
+
+
+- 👨‍💻 **Associate**\
+📆 2021 - oct/2021\
+📍 **Williams Lea Tag** - Kochi, India
+  
+ </details>
+
 <h2>Tech Stack</h2>
 
 Languages:
