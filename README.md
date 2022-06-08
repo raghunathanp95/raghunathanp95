@@ -25,7 +25,9 @@ I have a keen interest in new technologies like data science, AI/ML and blockcha
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 
 
-- 👨‍💻 **Software Engineer**\
+- 👨‍💻
+  
+  **Software Engineer**\
 📆 2021 - moment\
 📍 **Continental AG** - Bangalore, India
   
@@ -36,7 +38,7 @@ I have a keen interest in new technologies like data science, AI/ML and blockcha
 
 
 - 👨‍💻 **Associate**\
-📆 2021 - oct/2021\
+📆 2018 - Jan/2020\
 📍 **Williams Lea Tag** - Kochi, India
   
  </details>
