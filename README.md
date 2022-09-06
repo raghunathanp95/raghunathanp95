@@ -7,6 +7,8 @@
 
 <h2>About me</h2>
 
+Hey I am Raghu, I like coding, art and cats.
+
 I have a keen interest in new technologies like data science, AI/ML and blockchain technologies. I'm a quick learner with strong programming skills. Handy in python, C#, and js
 
 ## Experience
