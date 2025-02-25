@@ -18,8 +18,6 @@ Connect with me:
 [<img alt="Raghunathanp95" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img alt="raghurobert007 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="raghunathanp95 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="starlord_rags | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Raghunathan P | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br>
 
@@ -47,6 +45,4 @@ Connect with me:
 
 [website]: #
 [twitter]: https://twitter.com/raghurobert007
-[instagram]: https://www.instagram.com/starlord_rags/
 [linkedin]: https://www.linkedin.com/in/raghunathan-p/
-[facebook]: https://www.facebook.com/justbeinglegendaryawesome
